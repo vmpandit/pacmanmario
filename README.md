@@ -1,7 +1,7 @@
 Pac-Mario: Neon Edition 🕹️🍄
 A 32-bit hybrid game engine built entirely in a single HTML file using vanilla JavaScript.
 
-Play it now: Just download pacmario_final.html and open it in any browser!
+Play it now: Just download index.html and open it in any browser!
 
 📖 About the Project
 Pac-Mario: Neon Edition is a genre-bending web game that fuses the top-down maze mechanics of Pac-Man with the side-scrolling physics of Super Mario Bros. It features a custom-built game engine that seamlessly switches between two distinct gameplay modes.
